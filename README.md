@@ -39,7 +39,7 @@ My work centers on combining modern frontend design with rigorous backend engine
 I am a third-year undergraduate pursuing a **B.Tech in Computer and Communication Engineering** at **KJ Somaiya College of Engineering, Vidyavihar, Mumbai**.
 
 My development philosophy is rooted in technical discipline, sound architecture, and end-to-end execution:
-- **Systematic Foundations:** Grounding machine learning in verifiable mathematical and algorithmic principles rather than superficial wrapper APIs.
+- **Systematic Foundations:** Building and evaluating machine learning systems with clear engineering principles and measurable results.
 - **Design & User Experience:** Crafting accessible, responsive web interfaces with fluid component state management and clean typography.
 - **Reliable Automation:** Building deterministic desktop runtimes with low-level OS interop and strict human-in-the-loop permission gates.
 - **Collaborative Problem Solving:** Engineering real-world software solutions under competitive hackathon constraints to address practical operational challenges.
@@ -87,7 +87,7 @@ A unified desktop AI assistant integrating an independently developed foundation
 
 *Developed for the Inkloom AI Challenge (Enterprise Review Workspace)*
 - **Deterministic Rule Enforcement**: Instant evaluation of prohibited terminology, brand guidelines, and mandatory regulatory disclaimers.
-- **3-State Claim Grounding**: Classifies content claims strictly as `SUPPORTED`, `CONFLICTS_WITH_SOURCE`, or `NO_APPROVED_SOURCE_FOUND` against verified corporate knowledge bases to eliminate hallucinations.
+- **3-State Claim Grounding**: Classifies content claims strictly as `SUPPORTED`, `CONFLICTS_WITH_SOURCE`, or `NO_APPROVED_SOURCE_FOUND` against approved reference material to flag unsupported or conflicting claims.
 - **Cryptographic Version Immutability**: Review audits bind immutably to content revisions verified by SHA-256 cryptographic hashing.
 
 > **Platform Status:** *Private Enterprise Build (Inkloom AI Challenge Round 2 Submission) • Verified Implementation Specs in [TECH_STACK.md](TECH_STACK.md)*
@@ -98,11 +98,11 @@ A unified desktop AI assistant integrating an independently developed foundation
 *Next.js • TypeScript • FastAPI • Python • MongoDB • LSTM • Gradient Boosting • Agentic AI*
 
 *Ranked among Top 100 Teams at Mumbai Hacks 2025 (Organized by TEAM — Tech Entrepreneurs Association of Mumbai)*
-- **Predictive Healthcare Inflow**: Forecasts emergency department patient admissions 7–30 days in advance by correlating historical admission logs with live weather and environmental pollution trends.
-- **Autonomous Operations Engine**: Translates predictive influx spikes into actionable hospital mitigation plans—optimizing nurse-to-patient staffing ratios, ICU bed reallocations, and pharmaceutical inventory staging.
+- **Predictive Healthcare Inflow**: Designed to forecast changes in hospital admissions using historical patterns and environmental factors.
+- **Autonomous Operations Engine**: Converts predicted demand changes into operational recommendations for staffing, bed capacity, and medical supplies.
 - **Full-Stack Architecture**: Clean decoupling between a modern Next.js client interface and a high-performance asynchronous FastAPI prediction backend.
 
-[`Explore Repository →`](https://github.com/shubhsrii/Surge-Shield)
+> **Project overview:** [Architecture and technology details](TECH_STACK.md) • Team repository link withheld pending documentation review.
 
 ---
 
@@ -111,7 +111,7 @@ A unified desktop AI assistant integrating an independently developed foundation
 
 *Unified Industrial Asset Intelligence & Diagnostic Prototype*
 - **Semantic Asset Graph**: Models complex machine hierarchies connecting parent production lines, PLCs, downline sensory arrays, and operating parameters.
-- **Root-Cause Telemetry Diagnostics**: Real-time anomaly mapping across vibration, thermal, and pressure sensors against manufacturer tolerances and historical failure modes.
+- **Root-Cause Telemetry Diagnostics**: Interactive anomaly visualization for vibration, thermal, and pressure sensor data within an industrial prototype.
 - **Operations Copilot & CAPA**: Interactive operator command center with source-cited diagnostic steps and corrective action workflows.
 
 [`Explore Repository →`](https://github.com/Lokeshcodex-rbg/ETH)
@@ -146,24 +146,23 @@ An integrated emergency dispatch and hospital routing ecosystem:
 
 - **Mumbai Hacks 2025 — Top 100 Teams**  
   *Tech Entrepreneurs Association of Mumbai (TEAM) • Agentic AI & Healthcare Technology*  
-  Built **Surge Shield**, an agentic AI-powered hospital admission surge forecasting and emergency response platform. Selected and ranked among the Top 100 teams from 20,000+ national and international participants.
+  Built **Surge Shield**, an agentic AI-powered hospital surge forecasting and response prototype. Our team reached the Top 100 at Mumbai Hacks 2025.
 
 - **Smart India Hackathon (SIH) — Internal Round Selection**  
-  *Ministry of Education & Institutional Committee • Software & Systems Innovation*  
-  Selected for the institutional internal round following competitive departmental evaluation for automated emergency triage and resource dispatch systems.
+  Selected for the institutional internal round.
 
 ### Additional Competitive Hackathons
-- **ET AI Hackathon 2.0** — *The Economic Times* (August 2026) • Applied AI & Automation
-- **Adobe University Hackathon** — *Adobe* (August 2026) • Digital Experience & Modern Web Systems
-- **i-Hack Gaming Hackathon (E-Summit '25)** — *IIT Bombay* (January 2026) • Real-Time Systems & Canvas Graphics
-- **TechSprint Hackathon** — *Google Developers Group* (January 2026) • Cloud Architecture & Web Platforms
-- **Convolve 3.0 (Pan IIT AI/ML Hackathon)** — *IIT Guwahati* (February 2025) • Deep Learning & Algorithmic Problem Solving
+- **ET AI Hackathon 2.0** — *The Economic Times* (August 2026)
+- **Adobe University Hackathon** — *Adobe* (August 2026)
+- **i-Hack Gaming Hackathon (E-Summit '25)** — *IIT Bombay* (January 2026)
+- **TechSprint Hackathon** — *Google Developers Group* (January 2026)
+- **Convolve 3.0 (Pan IIT AI/ML Hackathon)** — *IIT Guwahati* (February 2025)
 
 ---
 
 ## 06 — Technology Stack
 
-All technical skills listed below are grounded in working code repositories and dependency manifests:
+The technologies below are drawn from documented projects. Implementation evidence and status are recorded in [TECH_STACK.md](TECH_STACK.md):
 
 ### Core Programming Languages
 - **Primary:** Python (3.11 / 3.12), TypeScript, JavaScript (ES2022+)
