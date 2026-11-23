@@ -15,7 +15,7 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com">LinkedIn</a> &nbsp;•&nbsp;
+    <a href="https://www.linkedin.com/in/lokesh-upadhyay-45b83a329">LinkedIn</a> &nbsp;•&nbsp;
     <a href="mailto:Upadhyaylokesh37@gmail.com">Email</a> &nbsp;•&nbsp;
     <a href="https://github.com/Lokeshcodex-rbg">GitHub</a>
   </p>
@@ -204,7 +204,7 @@ Tooling & DevOps    Git  •  GitHub Actions  •  Docker & Compose  •  Vite  
 ## 08 / Connect
 
 - **GitHub:** [@Lokeshcodex-rbg](https://github.com/Lokeshcodex-rbg)
-- **LinkedIn:** [Lokesh Upadhyay](https://linkedin.com) *(Update with your direct LinkedIn vanity URL)*
+- **LinkedIn:** [Lokesh Upadhyay](https://www.linkedin.com/in/lokesh-upadhyay-45b83a329)
 - **Email:** [Upadhyaylokesh37@gmail.com](mailto:Upadhyaylokesh37@gmail.com)
 - **Location:** Mumbai, India
 
