@@ -78,7 +78,7 @@ A unified desktop AI assistant integrating an independently developed foundation
 - **JARVIS Automation Engine**: Low-level Win32 automation via Python `ctypes` (`user32.dll` `SendInput`, window lifecycle management), Playwright headless browser control, and hardware-accelerated WinRT OCR.
 - **Security Governance**: Implemented a multi-tier permission gate (Levels 0–4) requiring cryptographic human authorization for destructive file or system operations.
 
-> **Implementation:** *Private Research & Desktop Automation Runtime • Full Architecture Specifications in [TECH_STACK.md](TECH_STACK.md)*
+> [**Explore Repository →**](https://github.com/Lokeshcodex-rbg/VISION-JARVIS) &nbsp;•&nbsp; *Full Architecture Specifications in [TECH_STACK.md](TECH_STACK.md)*
 
 ---
 
