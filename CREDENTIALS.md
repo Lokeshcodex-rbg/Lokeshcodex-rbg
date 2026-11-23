@@ -12,10 +12,10 @@
 ### Top 100 Teams — Mumbai Hacks 2025
 * **Competition:** Mumbai Hacks 2025 (GenAI & Agentic AI Track)
 * **Organizer:** Tech Entrepreneurs Association of Mumbai (TEAM)
-* **Scale:** Competed among 20,000+ national and international participants
-* **Project:** [Surge Shield](https://github.com/shubhsrii/Surge-Shield)
+* **Scale:** Event reported more than 20,000 participants
+* **Project:** Surge Shield
 * **Category:** Agentic AI & Healthcare Operations
-* **Outcome:** Selected and ranked among the **Top 100 Teams** in the final competitive round.
+* **Outcome:** Selected among the **Top 100 Teams** at Mumbai Hacks 2025.
 * **Technical Contribution:** Developed predictive time-series admission forecasting (LSTM, gradient boosting) correlating historical admissions with atmospheric pollution indices, paired with automated operational mitigation workflows for hospital resource dispatch.
 
 ### Internal Round Selection — Smart India Hackathon
@@ -31,19 +31,14 @@ The following represent active competitive participation across national collegi
 
 1. **ET AI Hackathon 2.0**  
    *Organizer:* The Economic Times • *Date:* August 2026  
-   *Focus:* Applied Artificial Intelligence and Enterprise Automation.
 2. **Adobe University Hackathon**  
    *Organizer:* Adobe • *Date:* August 2026  
-   *Focus:* Digital Experience, Modern Web Systems, and Frontend Engineering.
 3. **i-Hack Gaming Hackathon (E-Summit '25)**  
    *Organizer:* The Entrepreneurship Cell, IIT Bombay • *Date:* January 2026  
-   *Focus:* Real-time Interactive Systems, Canvas Graphics, and Game Engineering.
 4. **TechSprint Hackathon**  
    *Organizer:* Google Developers Group (GDG) • *Date:* January 2026  
-   *Focus:* Cloud Architecture, Modern Web Platforms, and Applied Developer Tools.
 5. **Convolve 3.0 (Pan IIT AI/ML Hackathon)**  
    *Organizer:* Indian Institute of Technology (IIT) Guwahati • *Date:* February 2025  
-   *Focus:* Deep Learning, Data Analytics, and Algorithmic Problem Solving.
 
 ---
 
