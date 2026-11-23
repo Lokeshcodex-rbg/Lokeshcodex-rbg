@@ -30,9 +30,9 @@
 
 I am a third-year undergraduate pursuing a **B.Tech in Computer and Communication Engineering** at **KJ Somaiya College of Engineering, Vidyavihar**. My engineering focus bridges **modern frontend development**, **machine learning architectures**, and **systems automation**.
 
-My work is driven by a commitment to technical precision and considered design:
+My work is driven by technical precision, system reliability, and considered user experience:
 - Pretraining and evaluating custom ~100M-parameter PyTorch foundation transformers (**VISION**) with original Byte-BPE tokenization and Grouped-Query Attention.
-- Engineering deterministic brand governance and compliance platforms (**BrandTrace**) using Next.js 15, React 19, and cryptographic verification.
+- Engineering deterministic brand governance and compliance platforms (**BrandTrace**) using Next.js 15, React 19, and in-browser WASM database execution.
 - Designing deterministic, multi-tier security gates and Win32 automation runtimes (**JARVIS**) interacting directly with the Windows desktop.
 - Developing agentic predictive healthcare systems (**Surge Shield**, Mumbai Hacks 2025 Top 100 Teams) to forecast admission spikes and optimize emergency resource staging.
 
@@ -40,25 +40,11 @@ My work is driven by a commitment to technical precision and considered design:
 
 ## 02 / Engineering Expertise
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>Frontend Engineering</h4>
-      <p>Building responsive, accessible web interfaces and interactive data dashboards. Focused on component architecture, state management, and fluid motion design.</p>
-      <sub>Next.js 15 • React 19 • TypeScript • Tailwind CSS • Framer Motion • Leaflet GIS • Vite</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Artificial Intelligence &amp; ML</h4>
-      <p>Developing neural network architectures, pretraining curricula, tokenization algorithms, and time-series forecasting models grounded in verifiable mathematics.</p>
-      <sub>PyTorch • Custom Transformers • RoPE • GQA • XGBoost • LSTM • Byte-BPE • Gemini REST</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>Systems &amp; Automation</h4>
-      <p>Engineering low-level OS interop, headless browser automation, computer vision OCR pipelines, and strict human-in-the-loop permission boundaries.</p>
-      <sub>Python ctypes • Win32 API • Playwright • WinRT OCR • Node.js • Electron 45 • FastAPI</sub>
-    </td>
-  </tr>
-</table>
+| Discipline | Architecture & Focus | Core Technologies |
+| :--- | :--- | :--- |
+| **Frontend Engineering** | Responsive component architectures, fluid micro-interactions, client-side state machines, and spatial GIS dashboards. | `Next.js 15` • `React 18/19` • `TypeScript` • `Tailwind CSS` • `Framer Motion` • `Leaflet GIS` • `Vite` |
+| **Artificial Intelligence & ML** | Foundation transformer pretraining, subword tokenization, time-series forecasting, and clinical decision microservices. | `PyTorch` • `RoPE / GQA Transformers` • `Byte-BPE` • `XGBoost` • `LSTM` • `Scikit-Learn` • `Gemini REST` |
+| **Systems & Automation** | Low-level OS interop, headless browser automation, computer vision OCR pipelines, and strict human-in-the-loop security boundaries. | `Win32 API (ctypes)` • `Playwright` • `WinRT OCR` • `Node.js` • `FastAPI` • `Express` • `Electron 45` |
 
 ---
 
@@ -72,7 +58,7 @@ A unified desktop AI assistant integrating an independently developed foundation
 - **JARVIS Automation Engine**: Low-level Win32 automation via Python `ctypes` (`user32.dll` `SendInput`, window lifecycle management), Playwright headless browser control, and hardware-accelerated WinRT OCR.
 - **Security Governance**: Implemented a multi-tier permission gate (Levels 0–4) requiring cryptographic human authorization for destructive file or system operations.
 
-[`Explore Repository →`](https://github.com/Lokeshcodex-rbg/vision-jarvis)
+> **Architecture & Implementation:** *Private Research & Desktop Automation Runtime • Full Architecture Specifications in [TECH_STACK.md](TECH_STACK.md)*
 
 ---
 
@@ -84,7 +70,7 @@ A unified desktop AI assistant integrating an independently developed foundation
 - **3-State Claim Grounding**: Classifies content claims strictly as `SUPPORTED`, `CONFLICTS_WITH_SOURCE`, or `NO_APPROVED_SOURCE_FOUND` against verified corporate knowledge bases to eliminate hallucinations.
 - **Cryptographic Version Immutability**: Review audits bind immutably to content revisions verified by SHA-256 cryptographic hashing.
 
-[`Explore Repository →`](https://github.com/Lokeshcodex-rbg/BrandTrace)
+> **Platform Status:** *Private Enterprise Build (Inkloom AI Challenge Round 2 Submission) • Verified Implementation Specs in [TECH_STACK.md](TECH_STACK.md)*
 
 ---
 
@@ -119,7 +105,7 @@ An integrated emergency dispatch and hospital routing ecosystem:
 - **ML Triage Engine**: XGBoost microservice assessing patient severity indicators to compute priority triage tiers and capacity-weighted hospital recommendations.
 - **Live Dispatch Telemetry**: Real-time ambulance tracking, spatial route visualization via Leaflet GIS, and dynamic ETA calculation via Open Source Routing Machine (OSRM) road network graphs.
 
-[`Explore Repository →`](https://github.com/shubhsrii/JeevanSetu)
+> **System Status:** *Collaborative Emergency Dispatch Prototype • Complete Architecture Documented in [TECH_STACK.md](TECH_STACK.md)*
 
 ---
 
@@ -130,64 +116,50 @@ An integrated emergency dispatch and hospital routing ecosystem:
 - **Multi-Branch Ingestion**: Automated text extraction combining native PDF parsing with OpenCV-preprocessed Tesseract 5 OCR for physical, degraded lab reports.
 - **Longitudinal Analyte Tracking**: Structured extraction of clinical analytes (HbA1c, lipid profiles, thyroid panels), reference units, and historical trend trajectories across isolated family sub-vaults.
 
-[`Explore Repository →`](https://github.com/Lokeshcodex-rbg/medvault-ai)
+> **System Status:** *Applied Computer Vision & Clinical NLP Demonstration Build • Technical Specifications in [TECH_STACK.md](TECH_STACK.md)*
 
 ---
 
 ## 04 / Hackathons & Achievements
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Mumbai Hacks 2025 — Top 100 Teams</h4>
-      <p><strong>Organizer:</strong> Tech Entrepreneurs Association of Mumbai (TEAM)</p>
-      <p>Top 100 Teams — Mumbai Hacks 2025 | Built <strong>Surge Shield</strong>, an agentic AI-powered hospital forecasting and response system.</p>
-      <sub>Track: Agentic AI &amp; Healthcare Technology • Competed among 20,000+ participants</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Smart India Hackathon — Internal Selection</h4>
-      <p><strong>Competition:</strong> Smart India Hackathon (SIH)</p>
-      <p>Selected for the Smart India Hackathon internal round.</p>
-      <sub>Category: Software &amp; Systems Innovation • Departmental &amp; Institutional Evaluation</sub>
-    </td>
-  </tr>
-</table>
+| Milestone | Competition & Organizer | Scope & Technical Contribution |
+| :--- | :--- | :--- |
+| **Top 100 Teams** | **Mumbai Hacks 2025**<br><sub>Tech Entrepreneurs Association of Mumbai (TEAM)</sub> | Built **Surge Shield**, an agentic AI-powered hospital admission surge forecasting and emergency response platform across 20,000+ participants. |
+| **Internal Selection** | **Smart India Hackathon (SIH)**<br><sub>Institutional & Departmental Evaluation</sub> | Selected for the institutional internal round representing systems software and emergency operational triage innovation. |
 
-#### Additional Hackathon Participation
-- **ET AI Hackathon 2.0** — The Economic Times (August 2026)
-- **Adobe University Hackathon** — Adobe (August 2026)
-- **i-Hack Gaming Hackathon, E-Summit '25** — The Entrepreneurship Cell, IIT Bombay (January 2026)
-- **TechSprint Hackathon** — Google Developers Group (January 2026)
-- **Convolve 3.0, Pan IIT AI/ML Hackathon** — IIT Guwahati (February 2025)
+#### Additional Competitive Hackathons
+- **ET AI Hackathon 2.0** — *The Economic Times* (August 2026) • Applied AI & Automation
+- **Adobe University Hackathon** — *Adobe* (August 2026) • Digital Experience & Modern Web Systems
+- **i-Hack Gaming Hackathon (E-Summit '25)** — *IIT Bombay* (January 2026) • Real-Time Systems & Canvas Graphics
+- **TechSprint Hackathon** — *Google Developers Group* (January 2026) • Cloud Platforms & Modern Web
+- **Convolve 3.0 (Pan IIT AI/ML Hackathon)** — *IIT Guwahati* (February 2025) • Deep Learning & Algorithmic Problem Solving
 
 ---
 
 ## 05 / Technology Stack
 
-```
-Languages           Python (3.11/3.12)  •  JavaScript (ES2022+)  •  TypeScript  •  Java  •  C++  •  PowerShell  •  SQL
-Frontend            Next.js (14/15)  •  React  •  React Three Fiber  •  Three.js (WebGL)  •  GSAP  •  Tailwind CSS
-AI & Machine Learning  PyTorch  •  Transformers (RoPE, GQA, SwiGLU)  •  Byte-BPE  •  XGBoost  •  LSTM  •  Scikit-Learn
-Systems & Backend   Node.js  •  FastAPI  •  Express  •  Server-Sent Events (SSE)  •  Socket.IO  •  Electron 45
-Automation & Vision Win32 API (ctypes)  •  Microsoft Playwright  •  WinRT OCR  •  OpenCV  •  Tesseract 5
-Storage & Databases PostgreSQL  •  MongoDB  •  PostGIS  •  numpy.memmap  •  Flat JSON/JSONL
-Tooling & DevOps    Git  •  GitHub Actions  •  Docker & Compose  •  Vite  •  VS Code  •  Markdownlint
-```
+| Category | Verified Technologies |
+| :--- | :--- |
+| **Languages** | Python (3.11/3.12), TypeScript, JavaScript (ES2022+), Java, C++, PowerShell, SQL |
+| **Frontend** | Next.js 15, React 18/19, Tailwind CSS (v3/v4), Framer Motion, Leaflet GIS, Three.js (WebGL), HTML5 Canvas 2D, Vite |
+| **AI & Machine Learning** | PyTorch, Custom Transformers (RoPE, GQA, SwiGLU), Byte-BPE, XGBoost, LSTM, Scikit-Learn, Gemini REST API |
+| **Systems & Backend** | Node.js Native HTTP, FastAPI, Express.js, Server-Sent Events (SSE), Socket.IO, Electron 45 |
+| **Automation & Vision** | Win32 API (`ctypes`), Microsoft Playwright, Windows Runtime (WinRT) OCR, OpenCV, Tesseract 5 |
+| **Storage & Databases** | PostgreSQL, MongoDB, PostGIS, In-Browser WASM Postgres (`PGlite`), `numpy.memmap`, Flat JSON/JSONL |
+| **Tooling & Environments** | Git, GitHub Actions, Docker & Docker Compose, Linux/Windows Subsystems, VS Code, Markdownlint |
+
+*Detailed file evidence and AST verification mappings are recorded in [TECH_STACK.md](TECH_STACK.md).*
 
 ---
 
 ## 06 / Certifications & Professional Development
 
-*Professional virtual job simulations demonstrating enterprise task execution, testing, and analytical problem-solving:*
-
-- **J.P. Morgan** — Software Engineering Job Simulation (Forage, September 2025)  
-  *Enterprise Java, Spring Boot microservices, financial data processing, and unit testing.*
-- **J.P. Morgan** — Investment Banking Job Simulation (Forage, September 2025)  
-  *Financial modeling, corporate valuation metrics, and equity performance analysis.*
-- **Deloitte** — Data Analytics Job Simulation (Forage, May 2026)  
-  *Exploratory data analysis (EDA), business intelligence visualization, and client-facing insight delivery.*
-- **Quantium** — Data Analytics Job Simulation (Forage, April 2026)  
-  *Retail customer transaction analytics, statistical benchmarking, and commercial data modeling.*
+| Issuer & Program | Completion | Verified Competencies & Domain |
+| :--- | :--- | :--- |
+| **J.P. Morgan**<br><sub>Software Engineering Job Simulation</sub> | September 2025 | Enterprise Java, Spring Boot microservices, financial transaction data structures, unit testing. |
+| **J.P. Morgan**<br><sub>Investment Banking Job Simulation</sub> | September 2025 | Financial modeling, corporate valuation metrics, M&A transaction rationale, equity performance analysis. |
+| **Deloitte**<br><sub>Data Analytics Job Simulation</sub> | May 2026 | Practical business analytics, exploratory data analysis (EDA), client-facing data visualization. |
+| **Quantium**<br><sub>Data Analytics Job Simulation</sub> | April 2026 | Retail customer transaction analytics, statistical benchmarking, product trial impact assessment. |
 
 *Detailed verification records and coursework context are documented in [CREDENTIALS.md](CREDENTIALS.md).*
 
